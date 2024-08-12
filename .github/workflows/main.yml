@@ -27,7 +27,7 @@ jobs:
           git config --local user.name "${{ github.repository_owner }}"
           git add -A
           
-          arr[0]="Spoofer 1.6"
+          arr[0]="Spoofer 1.7"
           arr[1]="Spoofer 1.6"
           arr[2]="Spoofer 1.6"
           arr[3]="Spoofer 1.6"
